@@ -4,7 +4,7 @@ A simple [mde ejs](https://github.com/mde/ejs) loader for [webpack](http://webpa
 
 ## Install
 
-`npm install mde-ejs-loader`
+`npm install --save-dev mde-ejs-loader`
 
 ## Usage
 
